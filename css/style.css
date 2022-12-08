@@ -1,0 +1,27 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    height: 12vh;
+    width: 100%;
+    box-shadow: lightgray 15px 15px 40px;
+}
+.mainname {
+    padding-left: 35%;
+    padding-top: 1%;
+    font-size: 300%;
+}
+.menubars {
+    background-color: white;
+    opacity: 0.5;
+    float: left;
+    padding-top: 0.6%;
+    padding-left: 1%;
+    border: none;
+}
+.menubars:hover{
+    opacity: 1;
+}
